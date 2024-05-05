@@ -9,4 +9,3 @@ npm-debug.log*
 # Modules and dependencies
 node_modules/
 cache
-.yarn/*
